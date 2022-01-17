@@ -1,4 +1,4 @@
-![Version badge](https://img.shields.io/badge/Version-1.0.1-blue.svg?maxAge=2592000)
+![Version badge](https://img.shields.io/badge/Version-1.0.0-blue.svg?maxAge=2592000)
 
 **CSV import template**
 =======================
