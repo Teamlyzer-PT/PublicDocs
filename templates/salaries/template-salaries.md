@@ -53,7 +53,7 @@ id
 --
 
 * **Description** 
-`Incremental order starting at 1.`
+`Mandatory. Incremental order starting at 1.`
 
 * **Required** 
 `id=[integer]`
@@ -62,7 +62,7 @@ user_id
 -------
 
 * **Description** 
-`Your user_id.`
+`Mandatory. Your user_id.`
 
 * **Required** 
 `id=[integer]`
@@ -71,7 +71,7 @@ role
 ----
 
 * **Description** 
-`Map with the role of each salary.`
+`Mandatory. Map with the role of each salary.`
 
 * **Required** 
 `id=[integer]`
@@ -107,7 +107,7 @@ ts
 --
 
 * **Description** 
-`Date of this file.`
+`Mandatory. Date of this file.`
 
 * **Required** 
 `string=[2021-09-22 14:05:29+00]`
@@ -116,7 +116,7 @@ last_year
 ---------
 
 * **Description** 
-`Salary year. E.g: 2022`
+`Mandatory. Salary year. E.g: 2022.`
 
 * **Required** 
 `id=[integer]`
@@ -125,7 +125,7 @@ size
 ----
 
 * **Description** 
-`Mandatory if hide_company = TRUE`
+`Mandatory if hide_company = TRUE.`
 
 * **Required** 
 `string=[11-50]`
@@ -144,7 +144,7 @@ size
     | +10000 | +10000 |
 
 hide_company
------------
+------------
 
 * **Description** 
 `Mandatory. If user reveal the company set FALSE. If not set TRUE.`
@@ -221,7 +221,7 @@ salary_range_offer_min
     | 1100 | 1100€ |
     | 1200 | 1200€ |  
 
-     | Value | Description | 
+    | Value | Description | 
     | ------ | ------ |
     | 1400 | 1400€ |  
     | 1500 | 1500€ |  
@@ -233,7 +233,7 @@ salary_range_offer_min
     | 2100 | 2100€ |
     | 2200 | 2200€ |
 
-     | Value | Description | 
+    | Value | Description | 
     | ------ | ------ |
     | 2400 | 2400€ |
     | 2500 | 2500€ |
@@ -282,7 +282,7 @@ salary_range_offer_min
     | 6200 | 6200€ |
     
 salary_range_offer_max
---------------------------
+----------------------
 
 * **Description** 
 `Mandatory. Min 600. Max 6400 Youd should sum the gross salary plus allowences (If any)`.
@@ -304,7 +304,7 @@ salary_range_offer_max
     | 1300 | 1300€ |
     | 1400 | 1400€ |  
 
-     | Id | Description | 
+    | Id | Description | 
     | ------ | ------ |
     | 1600 | 1600€ |  
     | 1700 | 1700€ |  
@@ -316,7 +316,7 @@ salary_range_offer_max
     | 2300 | 2300€ |
     | 2400 | 2400€ |
 
-     | Id | Description | 
+    | Id | Description | 
     | ------ | ------ |
     | 2600 | 2600€ |
     | 2700 | 2700€ |
@@ -416,7 +416,7 @@ company_location_id
 -------------------
 
 * **Description** 
-`Company location regarding each salary`
+`Mandatory. Company location regarding each salary`
 
 * **Required** 
 `id=[integer]`
