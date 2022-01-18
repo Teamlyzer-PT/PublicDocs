@@ -1,4 +1,4 @@
-![Version badge](https://img.shields.io/badge/Version-1.0.0-blue.svg?maxAge=2592000)
+![Version badge](https://img.shields.io/badge/Version-1.0.1-blue.svg?maxAge=2592000)
 
 **CSV import template**
 =======================
@@ -20,6 +20,7 @@ Table of contents
     * [last_year](#last_year)
     * [size](#size)
     * [industry_id](#industry_id)
+    * [hide_company](#hide_company)
     * [senior_junior](#senior_junior)
     * [salary_range](#salary_range)
     * [salary_range_offer_min](#salary_range_offer_min)
@@ -141,6 +142,15 @@ size
     | 1001-5000 | 1001 to 5000 |
     | 5001-10000 | 5001 to 10000 |
     | +10000 | +10000 |
+
+hide_company
+-----------
+
+* **Description** 
+`Mandatory. If user reveal the company set FALSE. If not set TRUE.`
+
+* **Required** 
+`boolean=[TRUE]`
 
 industry_id
 -----------
