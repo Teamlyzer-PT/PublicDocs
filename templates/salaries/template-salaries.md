@@ -125,7 +125,7 @@ size
 ----
 
 * **Description** 
-`Mandatory if hide_company = TRUE.`
+`Not mandatory, but recommended if hide_company = TRUE.`
 
 * **Required** 
 `string=[11-50]`
