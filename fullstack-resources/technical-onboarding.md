@@ -1,6 +1,6 @@
 ![Version badge](https://img.shields.io/badge/Version-1.0.0-blue.svg?maxAge=2592000)
 
-**technical onboarding**
+**Technical onboarding**
 ========================
 
 Welcome to Teamlyzer!
