@@ -28,9 +28,9 @@ We use trunk-based development. Here you can find more about this methodology.
 
 We use a lot of Jinja templating system to build every html page. 
 
--[Jinja Docs](https://jinja.palletsprojects.com/en/3.1.x/)
--[Template Designer Documentation](https://jinja.palletsprojects.com/en/3.1.x/templates/)
--[Flask Docs - Templating](https://flask.palletsprojects.com/en/2.1.x/templating/)
+- [Jinja Docs](https://jinja.palletsprojects.com/en/3.1.x/)
+    - [Template Designer Documentation](https://jinja.palletsprojects.com/en/3.1.x/templates/)
+- [Flask Docs - Templating](https://flask.palletsprojects.com/en/2.1.x/templating/)
 
 
 **Javascript basics**
@@ -49,10 +49,10 @@ We use a lot of Jinja templating system to build every html page.
 
 We use python in our backend. Feel free to read the Quickstart of Flask framework.
 
--[Flask Docs](https://flask.palletsprojects.com/en/2.1.x/)
-    -[Installation](https://flask.palletsprojects.com/en/2.1.x/installation/)
-    -[Quickstart](https://flask.palletsprojects.com/en/2.1.x/quickstart/)
-    -[Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
-    -[Best Flask Book -> We will send you a copy](https://www.amazon.com/Flask-Web-Development-Developing-Applications/dp/1491991739)
-    -[Explore Flask](http://exploreflask.com/en/latest/)
+- [Flask Docs](https://flask.palletsprojects.com/en/2.1.x/)
+    - [Installation](https://flask.palletsprojects.com/en/2.1.x/installation/)
+    - [Quickstart](https://flask.palletsprojects.com/en/2.1.x/quickstart/)
+    - [Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+    - [Best Flask Book -> We will send you a copy](https://www.amazon.com/Flask-Web-Development-Developing-Applications/dp/1491991739)
+    - [Explore Flask](http://exploreflask.com/en/latest/)
     
