@@ -10,9 +10,9 @@ Table of contents
 
   * [Git](#git) 
   * [HTML-CSS](#html-css) 
-  * [Jinja2](#jinja2)
   * [Javascript basics](#javascript-basics)
   * [Bootstrap](#bootstrap)
+  * [Jinja2](#jinja2)
   * [Flask Quickstart](#flask-quickstart)
   * [More resources](#more-resources)
 
@@ -32,15 +32,6 @@ We use trunk-based development. Here you can find more about this methodology.
 - [Learn CSS](https://web.dev/learn/css/)
 - [Learn to Code HTML & CSS](https://learn.shayhowe.com/)
 
-**Jinja2**
-===========
-
-We use a lot of Jinja templating system to build every html page. 
-
-- [Jinja Docs](https://jinja.palletsprojects.com/en/3.1.x/)
-    - [Template Designer Documentation](https://jinja.palletsprojects.com/en/3.1.x/templates/)
-- [Flask Docs - Templating](https://flask.palletsprojects.com/en/2.1.x/templating/)
-
 **Javascript basics**
 =====================
 - [The Modern JavaScript Tutorial](https://javascript.info/)
@@ -52,6 +43,15 @@ We use a lot of Jinja templating system to build every html page.
 **Bootstrap**
 ==============
 - [Bootstrap CSS](https://getbootstrap.com/docs/3.4/css/)
+
+**Jinja2**
+===========
+
+We use a lot of Jinja templating system to build every html page. 
+
+- [Jinja Docs](https://jinja.palletsprojects.com/en/3.1.x/)
+    - [Template Designer Documentation](https://jinja.palletsprojects.com/en/3.1.x/templates/)
+- [Flask Docs - Templating](https://flask.palletsprojects.com/en/2.1.x/templating/)
 
 **Flask Quickstart**
 ====================
