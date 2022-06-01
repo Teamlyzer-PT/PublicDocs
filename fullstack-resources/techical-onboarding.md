@@ -3,7 +3,9 @@
 **Techical onboarding**
 =======================
 
-Welcome to Teamlyzer. In this page you can find some usefull resources you may want to read.
+Welcome to Teamlyzer!
+
+On this page you can find some usefull resources you may want to read.
 
 Table of contents
 =================
