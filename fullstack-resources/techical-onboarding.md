@@ -9,10 +9,9 @@ Table of contents
 =================
 
   * [Git](#git) 
-  * [HTML](#html) 
+  * [HTML-CSS](#html-css) 
   * [Jinja2](#jinja2)
   * [Javascript basics](#javascript-basics)
-  * [CSS basics](#css-basics)
   * [Bootstrap](#bootstrap)
   * [Flask Quickstart](#flask-quickstart)
 
@@ -25,9 +24,12 @@ We use trunk-based development. Here you can find more about this methodology.
 - [Git Guide](https://github.com/git-guides)
 - [Trunk-Based Development for Beginners](https://www.nebulaworks.com/insights/posts/trunk-based-development-for-beginners)
 
-**HTML**
+**HTML-CSS**
 ========
 - [HTML — Structuring the web](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+- [CSS — Styling the web](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+- [Learn CSS](https://web.dev/learn/css/)
+- [Learn to Code HTML & CSS](https://learn.shayhowe.com/)
 
 **Jinja2**
 ===========
@@ -46,14 +48,9 @@ We use a lot of Jinja templating system to build every html page.
 - [Jquery API](https://api.jquery.com/)
 - [jQuery Fundamentals](http://jqfundamentals.com/) 
 
-**CSS basics**
+**Bootstrap**
 ==============
-- [CSS — Styling the web](https://developer.mozilla.org/en-US/docs/Learn/CSS)
-- [Learn CSS](https://web.dev/learn/css/)
-
-**Bootstrap basics**
-==============
-
+- [Bootstrap CSS](https://getbootstrap.com/docs/3.4/css/)
 
 **Flask Quickstart**
 ====================
