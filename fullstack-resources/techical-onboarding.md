@@ -19,8 +19,8 @@ Table of contents
 We use trunk-based development. Here you can find more about this methodology.
 
 - [Git: Become an Expert in Git & GitHub in 4 Hours](https://www.udemy.com/course/git-expert-4-hours/)
-- [Git Guide](https://github.com/git-guides)
 - [Git e Github para iniciantes](https://www.udemy.com/course/git-e-github-para-iniciantes/)
+- [Git Guide](https://github.com/git-guides)
 - [Trunk-Based Development for Beginners](https://www.nebulaworks.com/insights/posts/trunk-based-development-for-beginners)
 
 **Jinja2**
