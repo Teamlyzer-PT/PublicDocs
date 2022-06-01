@@ -29,7 +29,7 @@ We use trunk-based development. Here you can find more about this methodology.
 We use a lot of Jinja templating system to build every html page. 
 
 -[Jinja Docs](https://jinja.palletsprojects.com/en/3.1.x/)
-    -[Template Designer Documentation](https://jinja.palletsprojects.com/en/3.1.x/templates/)
+-[Template Designer Documentation](https://jinja.palletsprojects.com/en/3.1.x/templates/)
 -[Flask Docs - Templating](https://flask.palletsprojects.com/en/2.1.x/templating/)
 
 
