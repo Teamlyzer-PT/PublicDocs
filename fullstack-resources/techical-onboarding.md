@@ -63,9 +63,9 @@ We use python in our backend. Feel free to read the Quickstart of Flask framewor
 - [Flask Docs](https://flask.palletsprojects.com/en/2.1.x/)
     - [Installation](https://flask.palletsprojects.com/en/2.1.x/installation/)
     - [Quickstart](https://flask.palletsprojects.com/en/2.1.x/quickstart/)
-    - [Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
-    - [Best Flask Book -> We will send you a copy](https://www.amazon.com/Flask-Web-Development-Developing-Applications/dp/1491991739)
-    - [Explore Flask](http://exploreflask.com/en/latest/)
+  - [Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+  - [Best Flask Book -> We will send you a copy](https://www.amazon.com/Flask-Web-Development-Developing-Applications/dp/1491991739)
+  - [Explore Flask](http://exploreflask.com/en/latest/)
     
 **More resources**
 ==================
