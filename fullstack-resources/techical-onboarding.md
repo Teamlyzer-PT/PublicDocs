@@ -13,6 +13,7 @@ Table of contents
   * [Javascript basics](#javascript-basics)
   * [CSS basics](#css-basics)
   * [Bootstrap](#bootstrap)
+  * [Flask Quickstart](#flask-quickstart)
 
 **GIT basics**
 ==============
@@ -42,6 +43,8 @@ We use a lot of Jinja templating system to build every html page.
 ==============
 
 
+**Bootstrap basics**
+==============
 
 
 **Flask Quickstart**
