@@ -9,20 +9,25 @@ Table of contents
 =================
 
   * [Git](#git) 
+  * [HTML](#html) 
   * [Jinja2](#jinja2)
   * [Javascript basics](#javascript-basics)
   * [CSS basics](#css-basics)
   * [Bootstrap](#bootstrap)
   * [Flask Quickstart](#flask-quickstart)
 
-**GIT basics**
-==============
+**GIT**
+=======
 We use trunk-based development. Here you can find more about this methodology.
 
 - [Git: Become an Expert in Git & GitHub in 4 Hours](https://www.udemy.com/course/git-expert-4-hours/)
 - [Git e Github para iniciantes](https://www.udemy.com/course/git-e-github-para-iniciantes/)
 - [Git Guide](https://github.com/git-guides)
 - [Trunk-Based Development for Beginners](https://www.nebulaworks.com/insights/posts/trunk-based-development-for-beginners)
+
+**HTML**
+========
+- [HTML — Structuring the web](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 
 **Jinja2**
 ===========
@@ -33,15 +38,18 @@ We use a lot of Jinja templating system to build every html page.
     - [Template Designer Documentation](https://jinja.palletsprojects.com/en/3.1.x/templates/)
 - [Flask Docs - Templating](https://flask.palletsprojects.com/en/2.1.x/templating/)
 
-
 **Javascript basics**
 =====================
-
-
+- [The Modern JavaScript Tutorial](https://javascript.info/)
+- [JavaScript — Dynamic client-side scripting](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)
+- [Eloquent JavaScript Book](https://eloquentjavascript.net/)
+- [Jquery API](https://api.jquery.com/)
+- [jQuery Fundamentals](http://jqfundamentals.com/) 
 
 **CSS basics**
 ==============
-
+- [CSS — Styling the web](https://developer.mozilla.org/en-US/docs/Learn/CSS)
+- [Learn CSS](https://web.dev/learn/css/)
 
 **Bootstrap basics**
 ==============
