@@ -17,6 +17,7 @@ Table of contents
   * [Jinja2](#jinja2)
   * [Flask Quickstart](#flask-quickstart)
   * [More resources](#more-resources)
+  * [Software to install](#software-to-install)
 
 **GIT**
 =======
@@ -77,6 +78,8 @@ We use python in our backend. Feel free to read the Quickstart of Flask framewor
 
 
 **Software to install**
+=======================
+
 - [Dbeaver](https://dbeaver.io/)
 - [FileZilla](https://filezilla-project.org/)
 - [Notepad++](https://notepad-plus-plus.org/downloads/)
