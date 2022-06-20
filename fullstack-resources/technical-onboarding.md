@@ -74,3 +74,12 @@ We use python in our backend. Feel free to read the Quickstart of Flask framewor
 
 - [Frontend Roadmap](https://roadmap.sh/frontend)
 - [Backend Roadmap](https://roadmap.sh/backend)
+
+
+**Software to install**
+- [Dbeaver](https://dbeaver.io/)
+- [FileZilla](https://filezilla-project.org/)
+- [Notepad++](https://notepad-plus-plus.org/downloads/)
+- [Putty](https://www.putty.org/)
+- [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+- [Winmerge](https://winmerge.org/)
