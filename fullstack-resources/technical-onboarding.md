@@ -26,6 +26,8 @@ We use trunk-based development. Here you can find more about this methodology.
 - [Git e Github para iniciantes](https://www.udemy.com/course/git-e-github-para-iniciantes/)
 - [Git Guide](https://github.com/git-guides)
 - [Trunk-Based Development for Beginners](https://www.nebulaworks.com/insights/posts/trunk-based-development-for-beginners)
+- [GitHub Projects Demo: Automation, Kanban, Scrum, Issues, Pull Request, Milestones, Issues, Tasks](https://www.youtube.com/watch?v=YxKhb3fxtsU)
+
 
 **HTML-CSS**
 ========
