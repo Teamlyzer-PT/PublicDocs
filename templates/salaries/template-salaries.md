@@ -453,7 +453,7 @@ salary_ac
 ---------
 
 * **Description** 
-` Optional. Percentage of allowances. E.g. Total salary of 800€ + 200€ in allowances = 1000€. You sould fill with 20%.`
+` Mandatory. Percentage of allowances. E.g. Total salary of 800€ + 200€ in allowances = 1000€. You sould fill with 20%. 0 if no allowances.` 
 
 * **Required** 
 `integer=[20]`
