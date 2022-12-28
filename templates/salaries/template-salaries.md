@@ -462,7 +462,7 @@ tag
 ---
 
 * **Description** 
-`Mandatory at least one tag. More tags is better. No limit.`
+`Optional but highly recommended at least one tag. More tags is better. No limit.`
 
 * **Source** 
 https://drive.google.com/drive/u/2/folders/13g5ABgsO135zt2OrYnkgROKpgq91tEpM
