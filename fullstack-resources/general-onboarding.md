@@ -43,13 +43,19 @@ Second week (20-24 Feb)
 - [ ] 13.00h Lunch time
 - [ ] 14.00h Teamlyzer basic functional overview (IT team)
 - [ ] 15.00h Teamlyzer engineering book (IT team)
-- [ ] 16.00h Time to explore Teamlyzer app. Challenge to find 5 good / 5 not so good aspects to improve. Slides to be presented next day (IT team)
+- [ ] 16.00h Time to explore Teamlyzer app. 
+    - Challenge to find 5 good / 5 not so good aspects to improve. 
+    - Slides to be presented next day (IT team)
 
 **Day 2**
 =======
 
 - [ ] 10.30h Presentation of slides (All)
-- [ ] 11.30h Introduction to Slack, Notion, Basecamp, Dashlane (IT team)
+- [ ] 11.30h Introduction to company tools (IT team)
+    - Slack
+    - Notion
+    - Basecamp
+    - Dashlane
 - [ ] 13.00h Lunch time
 - [ ] 14.00h Teamlyzer indepth overview (_To be defined_)
 
@@ -72,7 +78,15 @@ Second week (20-24 Feb)
 **Day 6**
 =======
 
-- [ ] 10.30h Github overview (issues, releases, tags, projects, milestones) (IT team)
+- [ ] 10.30h Github overview (IT team)
+    - Repositories
+    - Issues
+    - PR
+    - Actions
+    - Releases
+    - Tags
+    - Projects
+    - Milestones 
 - [ ] 13.00h Lunch time
 - [ ] 14.00h Trunk based development (IT team)
 - [ ] 15.00h Introduction to technical onboarding (IT team)
