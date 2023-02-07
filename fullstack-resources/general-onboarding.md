@@ -21,6 +21,7 @@ First week (13-17 Feb)
 Second week (20-24 Feb)
 
   * [Day 6](#day-6) 
+  * [Day 7](#day-7) 
 
 **Day 1**
 =======
@@ -29,45 +30,49 @@ Second week (20-24 Feb)
     - Dinis - CTO
     - Vinícius - Software Developer (middle)
     - João - Software Developer (middle)
-    - Paulo (júnior)
-- [ ] 11.00h Teamlyzer basic overview (IT team)
-- [ ] 12.00h Add photo to profiles, add e-mails signatures, share contacts
+    - Paulo - Software Developer (júnior)
+- [ ] 11.00h Team organization (schedule, remote policy, production deployments, ...) (IT team)
+- [ ] 11.30h Teamlyzer basic functional overview (IT team)
+- [ ] 12.00h Add photo to profiles (slack, basecamp, meet), add e-mails signatures, share contacts (IT team)
 - [ ] 13.00h Lunch time
 - [ ] 14.00h Teamlyzer engineering book (IT team)
-- [ ] 15.00h Introduction to Slack, Notion, Basecamp (IT team)
-- [ ] 16.00h Time to explore Teamlyzer app. Exercise to find 5 good / 5 not so good aspects to improve. Slides to be presented next day (IT team)
+- [ ] 15.00h Time to explore Teamlyzer app. Challenge to find 5 good / 5 not so good aspects to improve. Slides to be presented next day (IT team)
 
 **Day 2**
 =======
 
 - [ ] 10.30h Presentation of slides (All)
-- [ ] 11.30h Teamlyzer indepth overview (All)
+- [ ] 11.30h Introduction to Slack, Notion, Basecamp, Dashlane (IT team)
 - [ ] 13.00h Lunch time
-- [ ] 14.00h Teamlyzer indepth overview (All)
+- [ ] 14.00h Teamlyzer indepth overview (_To be defined_)
 
 **Day 3**
+=======
+
+- [ ] 11.30h Teamlyzer indepth overview (_To be defined_)
+
+**Day 4**
 =======
 
 - [ ] 10.30h Infraestructure overview (IT team)
 - [ ] 11.30h Introduction - How to deploy the local VM, configure GIT, import database, + related stuff (Vinícius)
 
-**Day 4**
+**Day 5**
 =======
 
 - [ ] 10.30h Introduction (cont.) - How to deploy the local VM, configure GIT, import database, + related stuff (Vinícius)
 
-
-**Day 5**
-=======
-
-- [ ] 10.30h Github overview (issues, projects, milestones) (IT team)
-- [ ] 13.00h Lunch time
-- [ ] 14.00h Trunk based development (IT team)
-- [ ] 15.00h Introduction to technical onboarding (IT team)
-- [ ] 16.00h Time to explore resources (IT team)
-
 **Day 6**
 =======
 
-- [ ] 10.30h Work distribution and project allocation (IT team)
+- [ ] 10.30h Github overview (issues, releases, tags, projects, milestones) (IT team)
+- [ ] 13.00h Lunch time
+- [ ] 14.00h Trunk based development (IT team)
+- [ ] 15.00h Introduction to technical onboarding (IT team)
+- [ ] 16.00h Install software (Putty, IDE, VirtualBox, ...) (IT team)
+- [ ] 17.00h Time to explore resources from technical onboarding (IT team)
 
+**Day 7**
+=======
+
+- [ ] 10.30h Work distribution and project allocation (IT team)
