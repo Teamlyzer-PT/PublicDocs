@@ -65,7 +65,7 @@ Second week (20-24 Feb)
 **Day 3**
 =======
 
-- [ ] 11.30h Teamlyzer indepth overview (_To be defined_)
+- [ ] 10.30h Teamlyzer indepth overview (_To be defined_)
 
 **Day 4**
 =======
