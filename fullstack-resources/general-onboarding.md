@@ -10,7 +10,7 @@ This document will describe your first two weeks.
 Table of contents
 =================
 
-First week
+First week (13-17 Feb)
 
   * [Day 1](#day-1) 
   * [Day 2](#day-2) 
@@ -18,7 +18,7 @@ First week
   * [Day 4](#day-4) 
   * [Day 5](#day-5) 
 
-Second week
+Second week (20-24 Feb)
 
   * [Day 6](#day-6) 
 
