@@ -39,7 +39,7 @@ Second week (20-24 Feb)
     - Calendar events
     - Performance reviews by quarter
     - Helpdesk - POC is Márcio 
-- [ ] 12.00h Add photo to profiles (slack, basecamp, meet), add e-mails signatures, share contacts (IT team)
+- [ ] 12.00h Add photo to profiles (slack, basecamp, meet), add e-mails signatures, share contacts, signup on Teamlyzer (IT team)
 - [ ] 13.00h Lunch time
 - [ ] 14.00h Teamlyzer basic functional overview (IT team)
 - [ ] 15.00h Teamlyzer engineering book (IT team)
