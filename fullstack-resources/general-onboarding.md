@@ -80,6 +80,7 @@ Second week (20-24 Feb)
 
 - [ ] 10.30h Github overview (IT team)
     - Repositories
+    - Commits (structure of commit msg)
     - Issues
     - PR
     - Actions
