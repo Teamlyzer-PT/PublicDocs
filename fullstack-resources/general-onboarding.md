@@ -26,7 +26,12 @@ Second week (20-24 Feb)
 =======
 
 - [ ] 10.30h You will be introduced to your new Team (IT team)
+    - Dinis - CTO
+    - Vinícius - Software Developer (middle)
+    - João - Software Developer (middle)
+    - Paulo (júnior)
 - [ ] 11.00h Teamlyzer basic overview (IT team)
+- [ ] 12.00h Add photo to profiles, add e-mails signatures, share contacts
 - [ ] 13.00h Lunch time
 - [ ] 14.00h Teamlyzer engineering book (IT team)
 - [ ] 15.00h Introduction to Slack, Notion, Basecamp (IT team)
