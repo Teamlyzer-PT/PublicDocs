@@ -81,6 +81,7 @@ We use python in our backend. Feel free to read the Quickstart of Flask framewor
 =======================
 
 - [Dbeaver](https://dbeaver.io/)
+- [pgAdmin](https://www.pgadmin.org/)
 - [FileZilla](https://filezilla-project.org/)
 - [Notepad++](https://notepad-plus-plus.org/downloads/)
 - [Putty](https://www.putty.org/)
