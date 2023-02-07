@@ -93,7 +93,7 @@ Second week (20-24 Feb)
     - Milestones 
 - [ ] 13.00h Lunch time
 - [ ] 14.00h Trunk based development (IT team)
-- [ ] 15.00h Introduction to technical onboarding (IT team)
+- [ ] 15.00h Introduction to [technical onboarding)(https://github.com/Teamlyzer-PT/public-docs/blob/main/fullstack-resources/technical-onboarding.md) (IT team)
 - [ ] 16.00h Install software (Putty, IDE, VirtualBox, ...) (IT team)
 - [ ] 17.00h Time to explore resources from technical onboarding (IT team)
 
