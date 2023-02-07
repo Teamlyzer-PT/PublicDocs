@@ -47,7 +47,7 @@ Second week (20-24 Feb)
     - Paulo needs to study about html forms, SQLAlchemy, WTforms, web in general
     - João, same, but with a strong focus in Python / Flask too 
 - [ ] 16.00h Time to explore Teamlyzer app
-    - Challenge to find 5 good / 5 not so good aspects to improve. 
+    - Challenge to find 5 good / 5 not so good aspects to improve
     - Slides to be presented next day (IT team)
 
 **Day 2**
