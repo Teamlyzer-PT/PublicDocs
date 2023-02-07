@@ -43,7 +43,10 @@ Second week (20-24 Feb)
 - [ ] 13.00h Lunch time
 - [ ] 14.00h Teamlyzer basic functional overview (IT team)
 - [ ] 15.00h Teamlyzer engineering book (IT team)
-- [ ] 16.00h Time to explore Teamlyzer app. 
+- [ ] 16.00h 1:1 What to focus next
+    - Paulo needs to study about html forms, SQLAlchemy, WTforms, web in general
+    - João, same, but with a strong focus in Python / Flask too 
+- [ ] 16.30h Time to explore Teamlyzer app. 
     - Challenge to find 5 good / 5 not so good aspects to improve. 
     - Slides to be presented next day (IT team)
 
