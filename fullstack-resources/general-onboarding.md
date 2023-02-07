@@ -31,7 +31,7 @@ Second week (20-24 Feb)
     - Vinícius - Software Developer (middle)
     - João - Software Developer (middle)
     - Paulo - Software Developer (júnior)
-- [ ] 11.00h Team organization (schedule, remote policy, production deployments, ...) (IT team)
+- [ ] 11.00h Team organization (schedule, remote policy, production deployments, performance reviews by quarter, Helpdesk - Márcio) (IT team)
 - [ ] 11.30h Teamlyzer basic functional overview (IT team)
 - [ ] 12.00h Add photo to profiles (slack, basecamp, meet), add e-mails signatures, share contacts (IT team)
 - [ ] 13.00h Lunch time
