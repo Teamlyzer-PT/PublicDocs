@@ -31,12 +31,19 @@ Second week (20-24 Feb)
     - Vinícius - Software Developer (middle)
     - João - Software Developer (middle)
     - Paulo - Software Developer (júnior)
-- [ ] 11.00h Team organization (schedule, remote policy, production deployments, performance reviews by quarter, Helpdesk - Márcio) (IT team)
-- [ ] 11.30h Teamlyzer basic functional overview (IT team)
+- [ ] 11.00h Engineering team organization (IT team)
+    - Work schedule
+    - Remote policy
+    - Code reviews 
+    - Production deployments
+    - Calendar events
+    - Performance reviews by quarter
+    - Helpdesk - POC is Márcio 
 - [ ] 12.00h Add photo to profiles (slack, basecamp, meet), add e-mails signatures, share contacts (IT team)
 - [ ] 13.00h Lunch time
-- [ ] 14.00h Teamlyzer engineering book (IT team)
-- [ ] 15.00h Time to explore Teamlyzer app. Challenge to find 5 good / 5 not so good aspects to improve. Slides to be presented next day (IT team)
+- [ ] 14.00h Teamlyzer basic functional overview (IT team)
+- [ ] 15.00h Teamlyzer engineering book (IT team)
+- [ ] 16.00h Time to explore Teamlyzer app. Challenge to find 5 good / 5 not so good aspects to improve. Slides to be presented next day (IT team)
 
 **Day 2**
 =======
