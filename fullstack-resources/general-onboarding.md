@@ -85,7 +85,7 @@ Second week (20-24 Feb)
 =======
 
 - [ ] 10.30h Introduction to [technical onboarding](https://github.com/Teamlyzer-PT/public-docs/blob/main/fullstack-resources/technical-onboarding.md) (IT team)
-    - [ ] Time to explore resources (IT team)
+    - [ ] Time to explore resources 
     - [ ] Identify which books or courses you will take
 - [ ] 13.00h Lunch time
 - [ ] 14.00h Github overview (IT team)
