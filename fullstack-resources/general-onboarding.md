@@ -84,7 +84,11 @@ Second week (20-24 Feb)
 **Day 6**
 =======
 
-- [ ] 10.30h Github overview (IT team)
+- [ ] 10.30h Introduction to [technical onboarding](https://github.com/Teamlyzer-PT/public-docs/blob/main/fullstack-resources/technical-onboarding.md) (IT team)
+    - [ ] Time to explore resources (IT team)
+    - [ ] Identify which books or courses you will take
+- [ ] 13.00h Lunch time
+- [ ] 14.00h Github overview (IT team)
     - Repositories
     - Commits (structure of commit msg)
     - Rebases
@@ -96,12 +100,8 @@ Second week (20-24 Feb)
     - Tags
     - Projects
     - Milestones 
-- [ ] 13.00h Lunch time
-- [ ] 14.00h Trunk based development (IT team)
-- [ ] 15.00h Introduction to [technical onboarding](https://github.com/Teamlyzer-PT/public-docs/blob/main/fullstack-resources/technical-onboarding.md) (IT team)
-- [ ] 16.00h Install software (Putty, IDE, VirtualBox, ...) (IT team)
-- [ ] 17.00h Time to explore resources from technical onboarding (IT team)
-    - [ ] Identify which books or courses you will take
+- [ ] 15.00h Trunk based development (IT team)
+- [ ] 16.00h Install productivity software (Putty, IDE, VirtualBox, ...) (IT team)
 
 **Day 7**
 =======
