@@ -33,6 +33,7 @@ Second week (20-24 Feb)
     - Paulo - Software Developer (júnior)
 - [ ] 11.00h Engineering team organization (IT team)
     - Work schedule
+    - A typical day
     - Kanban
     - Remote policy
     - Code reviews 
