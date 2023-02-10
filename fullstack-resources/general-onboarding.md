@@ -23,8 +23,7 @@ Second week (20-24 Feb)
   * [Day 6](#day-6) 
   * [Day 7](#day-7) 
 
-
-Until day 6, in the end of the day, you should send an email to CTO about:
+Until day 6, in the end of the day, newcomers should send an email to CTO about:
 
 - Difficulties faced?
 - What went well?
@@ -40,7 +39,8 @@ Until day 6, in the end of the day, you should send an email to CTO about:
     - João - Software Developer (middle)
     - Paulo - Software Developer (júnior)
 - [ ] 11.00h Engineering team organization (IT team)
-    - Work schedule
+    - Work schedule (Flex: To be defined, 8 hours, send an email with the chosen working time). 
+        - If you need some time off for personal reasons, just let us know.
     - A typical day
     - Kanban
     - Remote policy
@@ -48,7 +48,8 @@ Until day 6, in the end of the day, you should send an email to CTO about:
     - Production deployments
     - Calendar events
     - Performance reviews by quarter
-    - Helpdesk - POC is Márcio 
+    - Helpdesk - POC is Márcio Gonçalves
+    - HR - POC is Filipa Pires
 - [ ] 12.00h Add photo to profiles (slack, basecamp, meet), add e-mails signatures, share contacts, signup on Teamlyzer (IT team)
 - [ ] 13.00h Lunch time
 - [ ] 14.00h Teamlyzer basic functional overview (IT team)
