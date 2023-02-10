@@ -28,7 +28,6 @@ Until day 6, in the end of the day, newcomers should send an email to CTO about:
 - Difficulties faced?
 - What went well?
 - There is no perfection. What should be improved in terms of onboarding of that day?
-- 
 
 **Day 1**
 =======
