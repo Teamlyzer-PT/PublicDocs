@@ -23,7 +23,7 @@ Second week (20-24 Feb)
   * [Day 6](#day-6) 
   * [Day 7](#day-7) 
 
-Until day 6, in the end of the day, newcomers should send an email to CTO about:
+Until day 6, in the end of each day, newcomers should send an email to CTO about:
 
 - Difficulties faced?
 - What went well?
