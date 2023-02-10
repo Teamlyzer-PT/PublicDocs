@@ -23,6 +23,14 @@ Second week (20-24 Feb)
   * [Day 6](#day-6) 
   * [Day 7](#day-7) 
 
+
+Until day 6, in the end of the day, you should send an email to CTO about:
+
+- Difficulties faced?
+- What went well?
+- There is no perfection. What should be improved in terms of onboarding of that day?
+- 
+
 **Day 1**
 =======
 
@@ -71,7 +79,7 @@ Second week (20-24 Feb)
 **Day 4**
 =======
 
-- [ ] 10.30h Infraestructure overview (IT team)
+- [ ] 10.30h Infraestructure overview [1](https://blog.teamlyzer.com/posts/2/stack-tecnologico-do-teamlyzer) [2](https://iwstack.com) (IT team)
 - [ ] 11.30h Teamlyzer engineering book (IT team)
 - [ ] 13.00h Lunch time
 - [ ] 14.00h Introduction - How to deploy the local VM, configure GIT, import database, + related stuff (Vinícius)
