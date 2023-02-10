@@ -62,7 +62,7 @@ Until day 6, in the end of each day, newcomers should send an email to CTO about
 **Day 2**
 =======
 
-- [ ] 10.30h Presentation of slides (All)
+- [ ] 10.30h Presentation of slides by newcomers (All)
 - [ ] 11.30h Introduction to company tools (IT team)
     - Slack
     - Notion
