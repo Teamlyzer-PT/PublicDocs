@@ -69,7 +69,9 @@ Until day 6, in the end of each day, newcomers should send an email to CTO about
     - Basecamp
     - Dashlane
 - [ ] 13.00h Lunch time
-- [ ] 14.00h Teamlyzer indepth overview (_To be defined_)
+- [ ] 14.30h João with RH (Filipa)
+- [ ] 15.00h Paulo with RH (Filipa)
+- [ ] 15.30h Teamlyzer indepth overview (_To be defined_)
 
 **Day 3**
 =======
