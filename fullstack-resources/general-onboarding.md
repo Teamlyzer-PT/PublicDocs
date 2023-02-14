@@ -71,12 +71,14 @@ Until day 6, in the end of each day, newcomers should send an email to CTO about
 - [ ] 13.00h Lunch time
 - [ ] 14.30h João with RH (Filipa)
 - [ ] 15.00h Paulo with RH (Filipa)
-- [ ] 15.30h Teamlyzer indepth overview (_To be defined_)
+- [ ] 15.00h Teamlyzer indepth overview (IT team)
+- [ ] 17.30h Intro to our Codebase (Vinícius)
+
 
 **Day 3**
 =======
 
-- [ ] 10.30h Teamlyzer indepth overview (_To be defined_)
+- [ ] 10.30h Teamlyzer indepth overview (IT team)
 
 **Day 4**
 =======
