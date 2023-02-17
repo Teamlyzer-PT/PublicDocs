@@ -16,6 +16,7 @@ Table of contents
   * [Bootstrap](#bootstrap)
   * [Jinja2](#jinja2)
   * [Flask Quickstart](#flask-quickstart)
+  * [Databases](#databases)
   * [More resources](#more-resources)
   * [Software to install](#software-to-install)
 
@@ -69,7 +70,15 @@ We use python in our backend. Feel free to read the Quickstart of Flask framewor
  - [Flask Mega Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
  - [Best Flask Book -> We will send you a copy](https://www.amazon.com/Flask-Web-Development-Developing-Applications/dp/1491991739)
  - [Explore Flask](http://exploreflask.com/en/latest/)
-    
+
+**Databases**
+====================
+
+- [Postgresql](https://www.postgresql.org/docs/current/index.html)
+- [SQLalchemy](https://docs.sqlalchemy.org/en/20/)
+- [Learn PostgreSQL Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=qw--VYLpxG4)
+- [Resources](https://www.postgresql.org/docs/online-resources/)
+
 **More resources**
 ==================
 
