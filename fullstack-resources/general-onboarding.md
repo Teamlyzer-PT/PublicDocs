@@ -21,7 +21,6 @@ First week (13-17 Feb)
 Second week (20-24 Feb)
 
   * [Day 6](#day-6) 
-  * [Day 7](#day-7) 
 
 Until day 6, in the end of each day, newcomers should send an email to CTO about:
 
@@ -88,13 +87,7 @@ Until day 6, in the end of each day, newcomers should send an email to CTO about
 - [ ] 13.00h Lunch time
 - [ ] 14.00h Introduction - How to deploy the local VM, configure GIT, import database, + related stuff (Vinícius)
 
-
 **Day 5**
-=======
-
-- [ ] 10.30h Introduction (cont.) - How to deploy the local VM, configure GIT, import database, + related stuff (Vinícius)
-
-**Day 6**
 =======
 
 - [ ] 10.30h Introduction to [technical onboarding](https://github.com/Teamlyzer-PT/public-docs/blob/main/fullstack-resources/technical-onboarding.md) (IT team)
@@ -116,7 +109,9 @@ Until day 6, in the end of each day, newcomers should send an email to CTO about
 - [ ] 15.00h Trunk based development (IT team)
 - [ ] 16.00h Install productivity software (Putty, IDE, VirtualBox, ...) (IT team)
 
-**Day 7**
+**Day 6**
 =======
 
-- [ ] 10.30h Work distribution and project allocation (IT team)
+- [ ] 10.30h Time to explore resources (IT team)
+- [ ] 13.00h Lunch time
+- [ ] 14.30h Work distribution and project allocation (IT team)
