@@ -410,7 +410,7 @@ company_id
 `Mandatory if hide_company = FALSE`
 
 * **Source** 
-https://drive.google.com/drive/u/2/folders/13g5ABgsO135zt2OrYnkgROKpgq91tEpM
+https://drive.google.com/file/d/1GXaeqHFZuCQtgdIht5blk5Wmpnl1EJ8H/view?usp=share_link
 
 * **Required** 
 `id=[integer]`
@@ -465,7 +465,7 @@ tag
 `Optional but highly recommended at least one tag. More tags is better. No limit.`
 
 * **Source** 
-https://drive.google.com/drive/u/2/folders/13g5ABgsO135zt2OrYnkgROKpgq91tEpM
+https://drive.google.com/file/d/1IqawpaVr46TwROYCCMelP9VZ2wwGo-Xn/view?usp=share_link
 
 * **Required** 
 `id=[integer]`
