@@ -410,7 +410,7 @@ company_id
 `Mandatory if hide_company = FALSE`
 
 * **Source** 
-https://drive.google.com/file/d/1GXaeqHFZuCQtgdIht5blk5Wmpnl1EJ8H/view?usp=share_link
+https://docs.google.com/spreadsheets/d/1gwXfth3pg4HuJTYtPa0t18_KOP6QGVWp5IupVJknvSE
 
 * **Required** 
 `id=[integer]`
